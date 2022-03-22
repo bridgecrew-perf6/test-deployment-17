@@ -1,1 +1,1 @@
-web: gunicorn test-deployment.app:app
+web: gunicorn technology.app:app
